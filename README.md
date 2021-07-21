@@ -13,4 +13,4 @@ of the contained folder
 
 data will now be stored in the data_[version] folder
 
-please do not distribute this tool with rimworld files included due to copyright reasons
+please do not distribute this tool with rimworld files included for copyright reasons
