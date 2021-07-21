@@ -2,6 +2,8 @@
 
 this tool/template bundle allows you to easily manage unlimited rimworld versions on windows
 
+run the initialize.bat file first to create the necessary folders
+
 paste your rimworld installation from the
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld
 folder into the folder with the matching version number.
