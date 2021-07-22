@@ -1,6 +1,6 @@
 # rimworld-profile-manager
 
-this tool/template bundle allows you to easily manage unlimited rimworld versions on windows
+this tool/template bundle allows you to easily use unlimited rimworld versions on windows
 
 run the initialize.bat file first to create the necessary folders
 
